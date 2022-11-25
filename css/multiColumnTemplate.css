@@ -52,7 +52,14 @@
 }
 .container .columns h4 {
 	text-align: center;
+	color: #01B2D1;}
+.container .columns h3 {
+	text-align: center;
 	color: #01B2D1;
+}
+.left_article h3 {
+	text-align: left;
+	color: #01B2D1; 
 }
 .primary_header {
 	width: 100%;
